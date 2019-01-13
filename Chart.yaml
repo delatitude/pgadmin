@@ -1,0 +1,18 @@
+apiVersion: v1
+appVersion: "1.0"
+name: pgadmin
+version: 0.1.0
+description: pgadmin chart for kubernetes
+keywords:
+- pgadmin
+- kubernetes
+- postgre
+home: https://github.com/delatitude/pgadmin
+sources:
+- https://www.pgadmin.org/
+- https://hub.docker.com/r/dpage/pgadmin4
+- https://github.com/delatitude/pgadmin
+maintainers:
+- name: delatitude
+  email: delatitude@gmail.com
+icon: https://github.com/delatitude/pgadmin/assets/pgadmin.svg
