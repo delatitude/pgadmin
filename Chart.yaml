@@ -15,4 +15,4 @@ sources:
 maintainers:
 - name: delatitude
   email: delatitude@gmail.com
-icon: https://github.com/delatitude/pgadmin/assets/pgadmin.svg
+icon: https://raw.githubusercontent.com/delatitude/pgadmin/master/assets/pgadmin.svg
